@@ -1,0 +1,2 @@
+method,model,recall@1,recall@5,recall@10,mrr
+Sentence Embeddings,all-MiniLM-L6-v2,0.14884627884302892,0.3594410139746506,0.4631134221644459,0.2527730319080671
