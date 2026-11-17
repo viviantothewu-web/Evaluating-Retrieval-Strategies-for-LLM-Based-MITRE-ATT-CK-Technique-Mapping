@@ -1,0 +1,4 @@
+Pipeline,Success,Retrieval Failure,LLM Selection Failure
+Bag-of-Words + Gemini,4,15,1
+TF-IDF + Gemini,4,16,0
+Sentence Embeddings + Gemini,7,10,3

@@ -1,0 +1,4 @@
+Pipeline,Retrieval Recall@5,Overall LLM Accuracy,Conditional LLM Accuracy
+Bag-of-Words + Gemini,0.25,0.2,0.8
+TF-IDF + Gemini,0.2,0.25,1.0
+Sentence Embeddings + Gemini,0.5,0.35,0.7
